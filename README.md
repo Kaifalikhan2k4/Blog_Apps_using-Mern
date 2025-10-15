@@ -25,7 +25,7 @@ docker compose version
 
 ```powershell
 # Replace the URL with your repo
-git clone https://github.com/Captain-Vikram/Blog-writer-Mern-Stack-.git
+[git clone https://github.com/Kaifalikhan2k4/Blog_Apps_using-Mern.git]
 cd Blog-writer-Mern-Stack-.git
 ```
 
